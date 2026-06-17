@@ -27,7 +27,7 @@ This interactive Excel dashboard transforms over 50,000 raw Amazon order records
 
 ## Dashboard Preview
 
-![Amazon-Sales-Analytics-Dashboard](Dashboard_Screenshot.png.png)
+![Amazon-Sales-Analytics-Dashboard](Dashboard_Screenshot.png)
 
 ## Key Business Takeaways
 -Revenue vs. Profit Velocity: While sales volume peaks consistently in specific months, profit margins fluctuated due to aggressive discounting structures in categories like Electronics.
